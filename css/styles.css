@@ -1,0 +1,161 @@
+body
+{
+  margin: 0;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+color: #40514E;
+font-weight: bold;
+font-size: 15px;
+}
+
+h1
+{
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.125rem;
+color: #66BFBF;
+line-height: 2;
+
+}
+h2
+{
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  margin: 0;
+padding-bottom: 20px;
+  font-weight: normal;
+
+
+}
+
+h3
+{
+  font-family: 'Playfair Display', serif;
+  color: #11999E;
+
+
+}
+.top
+{
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 100px;
+  margin-bottom: 30px;
+
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+color: #EAF6F6;
+font-size: x-small;
+height: 20px;
+padding: 100px;
+}
+
+.pro
+{
+  text-decoration: underline;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+.top-cloud
+{
+  position: absolute;
+  top: 50px;
+  right: 250px;
+
+}
+
+a
+{
+  color: #11999E;
+  font-weight:bold;
+
+
+}
+.footer-link
+{
+
+  margin: 10px 20px;
+  font-size: 150%;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #EAF6F6;
+}
+
+.copyright
+{
+
+  margin-top: 30px;
+  font-size: 13px;
+
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.skills
+{
+  margin-bottom: -40px;
+}
+
+.code-image
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.marketing-image
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #dddddd;
+  margin: 70px auto 70px auto;
+  width: 3%;
+}
+
+.contact-me
+{
+  margin: 70px auto 50px auto;
+
+
+}
+
+a:hover
+{
+  color: black;
+}
+
+.message
+{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
